@@ -1,0 +1,10 @@
+c:\users\javni nabavki\documents\visual studio 2015\Projects\String Manipulation\String Manipulation\bin\Debug\String Manipulation.exe
+c:\users\javni nabavki\documents\visual studio 2015\Projects\String Manipulation\String Manipulation\bin\Debug\String Manipulation.pdb
+c:\users\javni nabavki\documents\visual studio 2015\Projects\String Manipulation\String Manipulation\obj\Debug\String Manipulation.csprojResolveAssemblyReference.cache
+c:\users\javni nabavki\documents\visual studio 2015\Projects\String Manipulation\String Manipulation\obj\Debug\String Manipulation.exe
+c:\users\javni nabavki\documents\visual studio 2015\Projects\String Manipulation\String Manipulation\obj\Debug\String Manipulation.pdb
+D:\Trening C#\String Manipulation\String Manipulation\bin\Debug\String Manipulation.exe
+D:\Trening C#\String Manipulation\String Manipulation\bin\Debug\String Manipulation.pdb
+D:\Trening C#\String Manipulation\String Manipulation\obj\Debug\String Manipulation.csprojAssemblyReference.cache
+D:\Trening C#\String Manipulation\String Manipulation\obj\Debug\String Manipulation.exe
+D:\Trening C#\String Manipulation\String Manipulation\obj\Debug\String Manipulation.pdb
